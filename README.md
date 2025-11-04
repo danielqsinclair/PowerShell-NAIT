@@ -1,1 +1,3 @@
-The ps1 title "Create users from csv2.ps1" is meant to unbox Marvel.csv and the Unboxing project.ps1 goes with Usernames_PROJ1000.csv
+This repository consists of two csv files provided by instructors and the scripts I developed (written entirely by me) to unbox said csv's
+Create users from csv2.ps1 -------> Marvel.csv (csv provided by instructor)
+Unboxing project.ps1       -------> Usernames_PROJ1000.csv (csv provided by instructor)

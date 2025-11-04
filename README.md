@@ -1,4 +1,5 @@
 This repository consists of two csv files provided by instructors and the scripts I developed (written entirely by me) to unbox said csv's
+please note that these two scripts are my first and second ever powershell scripts respectively
 
 Create users from csv2.ps1 -------> Marvel.csv (csv provided by instructor)
 
